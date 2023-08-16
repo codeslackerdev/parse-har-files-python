@@ -20,4 +20,4 @@ Run the script
 python har_parser.py
 ```
 
-### To capture and parse browser network requests without har files directly from python follow [this tutorial]() 
+### To capture and parse browser network requests without har files directly from python follow [this tutorial](https://github.com/codeslackerdev/capture-chrome-network-responses-pychrome) 
